@@ -1,0 +1,14 @@
+{
+  "name": "single-price-grid-component",
+  "version": "1.0.0",
+  "description": "Single price grid component challenge",
+  "scripts": {
+    "serve": "http-server -a localhost",
+    "start": "npm run serve -- -p 80",
+    "dev": "npm run serve -- -p 5500 -c-1"
+  },
+  "author": "tyran0",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
