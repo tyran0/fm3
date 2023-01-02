@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Single price grid component challenge",
   "scripts": {
-    "serve": "http-server -a localhost",
-    "start": "npm run serve -- -p 80",
+    "serve": "http-server ./dist -a localhost",
+    "start": "npm run serve -- -p 8080",
     "dev": "npm run serve -- -p 5500 -c-1"
   },
   "author": "tyran0",
