@@ -5,7 +5,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ## Table of contents
 
 - [Solution](#solution)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 
 ## Solution
@@ -15,7 +14,3 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 | Desktop version                | Mobile version                |
 | ------------------------------ | ----------------------------- |
 | ![](./screenshots/desktop.png) | ![](screenshots/mobile.png) |
-
-### Links
-
-- Live Site URL: [Netlify](https://tyran0-single-price-grid-component.netlify.app/)
