@@ -5,11 +5,11 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ## Table of contents
 
 - [Solution](#solution)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
 
 ## Solution
 
-### Screenshot
+### Screenshots
 
 | Desktop version                | Mobile version                |
 | ------------------------------ | ----------------------------- |
